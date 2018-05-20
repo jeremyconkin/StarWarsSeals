@@ -2,5 +2,35 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jeremy.conkin/Documents/SwiftPlaygroundTinkering/StarWarsSeals/StarWarsSeals.playground#CharacterRangeLen=965&amp;CharacterRangeLoc=4869&amp;EndingColumnNumber=35&amp;EndingLineNumber=159&amp;StartingColumnNumber=0&amp;StartingLineNumber=138&amp;Timestamp=548533616.045993"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jeremy.conkin/Documents/SwiftPlaygroundTinkering/StarWarsSeals/StarWarsSeals.playground#CharacterRangeLen=965&amp;CharacterRangeLoc=4869&amp;EndingColumnNumber=35&amp;EndingLineNumber=159&amp;StartingColumnNumber=0&amp;StartingLineNumber=138&amp;Timestamp=548533616.046128"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jeremy.conkin/Documents/SwiftPlaygroundTinkering/StarWarsSeals/StarWarsSeals.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=3675&amp;EndingColumnNumber=29&amp;EndingLineNumber=111&amp;StartingColumnNumber=16&amp;StartingLineNumber=111&amp;Timestamp=548533616.046231"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jeremy.conkin/Documents/SwiftPlaygroundTinkering/StarWarsSeals/StarWarsSeals.playground#CharacterRangeLen=622&amp;CharacterRangeLoc=4246&amp;EndingColumnNumber=0&amp;EndingLineNumber=137&amp;StartingColumnNumber=0&amp;StartingLineNumber=126&amp;Timestamp=548533616.046329"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jeremy.conkin/Documents/SwiftPlaygroundTinkering/StarWarsSeals/StarWarsSeals.playground#CharacterRangeLen=0&amp;CharacterRangeLoc=6819&amp;EndingColumnNumber=0&amp;EndingLineNumber=188&amp;StartingColumnNumber=0&amp;StartingLineNumber=188&amp;Timestamp=548533616.046422"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/jeremy.conkin/Documents/SwiftPlaygroundTinkering/StarWarsSeals/StarWarsSeals.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=6786&amp;EndingColumnNumber=14&amp;EndingLineNumber=187&amp;StartingColumnNumber=1&amp;StartingLineNumber=187&amp;Timestamp=548533616.046518"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
